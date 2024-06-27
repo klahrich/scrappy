@@ -1,0 +1,107 @@
+The Pros and Cons of Farfetch’s Global Luxury Marketplace (Tech Strategy – Daily Article)
+POSTED ON JUNE 12, 2022
+My standard question is: What is the quality of the business?
+
+I go through lots of checklists for this. It generally takes me 40 pages of written notes to get through a basic assessment of company quality. But the simple version is: 
+
+What is the market size and its growth?
+Is there a long-term secular trend that creates a floor for demand?
+Does the company have competitive advantages against its current and potential competitors?
+What is the attractiveness of the unit economics?
+Are there external factors that could impact this commercial situation, especially changes in government, customer behavior or technology? 
+The first three question identify a situation with a high probability for the creation and capture of economic value. Question four is about external shocks to that picture. And then I put the company in one of four buckets:
+
+Great. This is a company that is wealth creating. Consider buy and hold long-term. Examples: Coca-Cola, Airbnb, etc.
+Good. This is a company that is wealth-preserving. A good investment at the right price. Example: A hotel on Central Park West.
+Unpredictable or Bad. This company is unpredictable in its future performance. It could significantly increase or decrease in value based on external conditions and/or management performance. Buy and sell quickly. Think bargain hunting, event-driven, etc. Examples are most restaurants, small retail, and smartphones.
+Too Hard. This is a difficult and / or unattractive business. Or it is too hard for me to figure out. This includes biotech and payment systems.
+I put Farfetch in the Unpredictable or Bad bucket. Which means, I would only invest if there was a short-term tactical or event-driven play. Buy, grab the profit and get out. But don’t hold too long and be exposed to changing performance. 
+
+But there is a lot to like about Farfetch. It is an interesting mix of pros and cons as a business model. Here are my main points.
+
+Product Marketplaces Can Be Really Great Businesses
+Marketplace platforms for physical goods can be fantastic business models. Trying to build one is a fight worth taking on. Because if you win, you can win big. For example, Alibaba, JD, Shopee, Lazada, Amazon and others. Similarly, some marketplace platforms services can also be fantastic. Think Meituan, Ctrip, and now Airbnb.
+
+Marketplaces for physical products tend to have really good characteristics:
+
+You are fighting for consumer spending instead of continually fighting the zero-sum game for attention and engagement.
+Physical product sellers tend to be fragmented and differentiated. There are lots of SMEs (often millions) with lots of needs.
+You can get network effects that linearly increase for both consumers and merchants. This is what I like about Airbnb. The more supply of housing you offer, the better for consumers. And vice versa. And it doesn’t asymptote. It keeps going up.
+The combination of digital and physical (i.e., logistics) assets makes it more defensible.
+You get payment upfront and benefit from negative working capital.
+It’s scalable (pretty much).
+You can sometimes integrate operationally and build in switching costs with merchants.
+Overall, these businesses have a lot of the digital superpowers I look for:
+
+Enables a platform
+Network effects
+Other competitive advantages (maybe switching costs with merchants)
+Scalability
+Farfetch is a Marketplace Specialized for Cross-Border Luxury. That’s Really Interesting.
+Farfetch’s core business is a product marketplace platform (good). And it is specialized for cross-border, global and luxury. That makes it unique.
+
+Think about the buyers and sellers of luxury goods, like handbags and jewelry. The sellers are fragmented and scattered. There are boutique luxury brands in Milan, Paris, London, New York, etc. They are all differentiated and special (i.e., luxury brands). And the buyers are also scattered around the world, with lots in China in particular. So the platform has to connected globally and most of it is cross-border. 
+
+Farfetch is connecting a fragmented, highly differentiated merchant group (1,200 sellers of luxury items located in +50 countries) with 2.1M consumers located around the world.
+
+In theory, that is quite attractive given the fragmented and geographically dispersed nature of the merchants and consumers. I generally like cross-border marketplaces as specialty strategies.  They are smaller than domestic or regional marketplaces but can have unique characteristics that make them fairly difficult to replicate. Think of how hard it is for a small luxury brand in Milan to reach consumers in China and Japan without such a platform? Cross-border luxury has huge Coasean transaction costs.
+
+The problem with cross-border ecommerce is the threat from much larger domestic ecommerce companies over time. These smaller platforms are specialized in the user experience for luxury purchases (a strength) but can also be subscale in terms of marketing, logistics and IT spending.
+
+What really gets my attention about Farfetch is the global nature of its network effect. Like in Airbnb, the network effect really increases the more you add consumers and merchants globally. And you really do need a global platform to compete, which creates somewhat of a barrier to entry. Although the actual number of merchants is much, much smaller than Airbnb.
+
+The Digitization of Luxury Is Surprisingly Dynamic.
+Farfetch was an early mover in the digitization of luxury. Which I like because luxury is a compelling and dynamic space for digital. There are lots of dimensions to the consumer experience in luxury. This is not just buying a cup of coffee or pair of socks. It is an emotional experience. It is about entertainment. It is about showing status. It is somewhat about utility. it already has lots of content and entertainment tied to teh products. There are just lots of dimensions that digital can enrich.
+
+I generally look at luxury products as having 4 dimensions to the consumer experience:
+
+Love of fashion. Consumers really like this stuff. It’s entertainment. It’s interesting. The products make the consumers feel good. They also like to browse. The shopping experience is fun. You can see this in the content surrounding the space (videos, fashion shows, models, etc.). It looks more like the fan activity for Star Wars and Marvel than just selling useful products.
+Luxury is aspirational and about indulgences. It’s not just entertaining, it’s aspirational. Like trying on a better life. People buy luxury similar to how they go out for nice dinners. Or order Johnny Walker Blue on special occasions.
+Status seeking behavior. A lot of luxury is about demonstrating wealth. It’s a status game. Envy and jealous drive a lot of the behavior. And we are status-seeking monkeys.
+Rational purchasing. There is a rational, logical aspect to the purchasing. People do want quality goods and the latest styles. So Farfetch offering a big selection of quality products at market prices matters.
+I put down this is mostly about #1 and #3. There is a lot of interesting consumer psychology in luxury – including liking / loving tendency, curiosity, envy / jealously and social proof.
+
+However…
+
+Digitizing Luxury Has Been Very Difficult.
+Luxury was one of the last sectors to start to go online. Amazon, Alibaba and JD all avoided it for like 15 years and focused on easier sectors, such as books and consumer electronics. It is a difficult space. For example:
+
+Luxury has a high experiential component. Luxury consumers like to go to the really nice Gucci store at the high end shopping mall. They like to talk to the highly trained and pleasant staff. They want to see the handbag in person. They like the customer service and the ability to return things easily (especially expensive apparel).
+It has a high content and branding component, centered on the big brands. Consumers like to watch the videos on their phones. And see the glossy magazines. And maybe watch the fashion shows. Most of this luxury activity is not about lots of small luxury sellers. It is about the big famous brands (Gucci, Prada, Dior, Valentino, etc.)
+They like the exclusivity. They want to be the person with the new season’s merchandise. Inventory decreases in value rapidly as the season progresses.
+So there is quite a bit of complexity. And not much of that can happen only a smartphone screen. The Prada bag doesn’t look that great as a thumbnail. The magic isn’t there. You need to do online-merge-offline (i.e., new retail). So the big ecommerce companies left this space for last, just like supermarkets.
+
+And within all of this, the big luxury brands command most of the power. They have the consumer loyalty, not the platform. And these brands are getting smarter about digital and are building their direct relationships with consumers.
+
+The Future of Luxury is Clearly Online-Merge-Offline (OMO).
+Online-merge-offline is the future of luxury. It will be about combining commerce, content, social media and physical spaces into one compelling consumer relationship and series of experiences. It will be live events and fashion shows where you can see the latest trends. It will be experience stores. It will be engaging content and social media campaigns (already happening). It will be collaborations with other companies.
+
+That’s the exciting OMO future of luxury. And Farfetch as a stand-alone marketplace doesn’t look well positioned against this.
+
+The Major Ecommerce Players Are a Mortal Threat.
+Farfetch is dramatically smaller than its competitors in the US and China. If Amazon, Alibaba or JD want this cross-border luxury business, they can use their vast resources and massive consumer user bases to go after it. Luxury is a lot about Chinese consumers. Farfetch has +2M consumers globally. Tmall has +500M.
+
+My big question on Farfetch is the details of their users and cohorts (which I have not been able to find).
+
++2M customers with relatively stable spending per user of around $600. Ok, fine. Where are they? How concentrated? How are they  changing over time? How much of this is driven by the company’s large marketing spending?
+1% of customers are 27% of GMV (2019 10k)
+1,200 luxury sellers with 3,400 brands in 50 countries. Where are they? How integrated are they? How much of the GMV do the smaller players represent?
+10 retailers are 16% of GMV (2019 10k)
+Farfetch’s primary competitive advantages are a global network effect and switching costs on the merchant side. Those were effective against traditional offline sellers of luxury. But neither of those strike me as particularly strong against the major ecommerce players.
+
+The Current Business Is Subscale.
+Farfetchs’ growth in users, GMV and revenue looks good. That’s the top line story. But the marketing spend has been at 80% of revenue in the past. This could be about putting the pedal to the floor in terms of growth. Or it could be about buying traffic versus competition. And to keep the network effect going?
+
+The company has also been losing money historically. It’s not clear to me this company’s core marketplace can become a cash engine. Especially not if the competitive situation gets more difficult.
+
+There is also a lot of R&D and tech spending happening in digital luxury. The entire sector is being upgraded. JD is spending tons to develop AI-enabled fashion tools (which it then provides to merchants). Alibaba is spending on augmented reality and other digital tools for stores. I don’t see how Farfetch can keep up over time with the advancing tech frontier of ecommerce.
+
+Finally, management looks like they are searching for a new opportunity. They have been doing M&A to get into first-party sales with their own brands (Stadium Goods, Browns, New Guards). Why would a marketplace business do this unless they are looking for an alternate source of profits or growth?
+
+***
+
+Overall, I like the intersection of luxury and digital. It’s an exciting space. And I really like marketplace business models.
+
+But I put Farfetch in my Unpredictable or Bad bucket. It may work out great. It may get crushed. I can’t predict it and I think it’s an increasingly difficult business, mostly due to their daunting ecommerce competitors.
+
+That’s it. I hope this helpful. – jeff
